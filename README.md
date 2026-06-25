@@ -33,8 +33,8 @@ Instead of providing a fully preconfigured system, Nav Linux encourages users to
 
 ## Repositories
 
-- **navlinux** — Source code, build scripts, and project assets.
-- **navwiki** *(coming soon)* — Documentation and package build guides.
+- **navlinux**: Source code, build scripts, and project assets.
+- **navwiki** *(coming soon)*: Documentation and package build guides.
 
 ---
 
